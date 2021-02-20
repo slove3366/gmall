@@ -8,3 +8,4 @@ public class jj {
         System.out.println("master");
     }
 }
+
